@@ -7,12 +7,12 @@ I use SQL to perform exploratory data analysis and write analytical queries to u
 Along with SQL, I work with **Excel and Power BI** for data cleaning, analysis, and visualization. I also have basic working knowledge of **Python**, which I am gradually developing for data analysis and automation.
 
 This GitHub profile documents my learning journey, practice work, and project-based repositories, with an emphasis on clear logic, structured queries, and proper documentation.
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tisha Dutta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tishadutta7320@gmail.com) 
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TishaDutta7&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TishaDutta7&theme=dark&hide_border=false)<br/>
