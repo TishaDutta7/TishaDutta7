@@ -9,7 +9,7 @@ Along with SQL, I work with **Excel and Power BI** for data cleaning, analysis, 
 This GitHub profile documents my learning journey, practice work, and project-based repositories, with an emphasis on clear logic, structured queries, and proper documentation.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tisha Dutta) --[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Tisha Dutta)-- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tishadutta7320@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tisha Dutta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tishadutta7320@gmail.com) 
 
 # 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
